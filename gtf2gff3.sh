@@ -6,6 +6,6 @@
 #$ -m aes
 
 /users/dpoppleton/Programs/gffread \
- -E Abomasum.gtf \
+ -E Abomasum.gtf -F\
  -o Abomasum.gff3
 
